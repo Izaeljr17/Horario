@@ -1,0 +1,7 @@
+INSERT INTO horario ( horario, segunda, terça, quarta, quinta, sexta) VALUES
+('7:30', 'Biologia', 'Matematica', 'Matematica', 'Quimica', 'Prog. Mobile'),
+('8:20', 'Sociologia', 'Portugues', 'Portugues', 'Ingles', 'Banco de Dados'),
+('9:10', 'Proj. de Vida', 'Prog. Front-end', 'Prog. Front-end', 'Quimica', 'Matematica'),
+('10:20', 'Analise e Proj. de Sist.', 'Historia', 'Prog. Front-end', 'Geografia', 'Biologia'),
+('11:10', 'Analise e Proj. de Sist.', 'Ciencia da Comp.', 'ED. Financeira', 'Prog. Front-end', 'Prog. Mobile'),
+('12:00', 'Sociologia', 'Portugues', 'Banco de Dados', 'Geografia', 'Ciencia da Comp.');
