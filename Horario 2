@@ -5,3 +5,5 @@ INSERT INTO horario ( horario, segunda, terça, quarta, quinta, sexta) VALUES
 ('10:20', 'Analise e Proj. de Sist.', 'Historia', 'Prog. Front-end', 'Geografia', 'Biologia'),
 ('11:10', 'Analise e Proj. de Sist.', 'Ciencia da Comp.', 'ED. Financeira', 'Prog. Front-end', 'Prog. Mobile'),
 ('12:00', 'Sociologia', 'Portugues', 'Banco de Dados', 'Geografia', 'Ciencia da Comp.');
+
+SELECT * FROM horario
